@@ -19,7 +19,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2, duration: 0.8 }}
             >
-              <span className="gradient-text">Daniel Zurita</span>
+              <span className="gradient-text">Isaac Bonalde</span>
               <br />
               <span className="text-white text-3xl md:text-4xl lg:text-5xl">Productor Musical</span>
             </motion.h1>
