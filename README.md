@@ -1,4 +1,4 @@
-# 🎵 Daniel Zurita - Portfolio Musical
+# 🎵 Isaac Bonalde - Portfolio Musical
 
 Portafolio profesional de Daniel Zurita, productor musical e ingeniero de mezcla con más de 6 años de experiencia en la industria.
 
